@@ -1,0 +1,18 @@
+{
+  "name": "node_sharp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "imgbuild.js",
+  "scripts": {
+    "imgbuild": "node imgbuild.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "imagemin": "^8.0.1",
+    "imagemin-sharp": "^1.0.6",
+    "sharp": "^0.32.6"
+  }
+}
